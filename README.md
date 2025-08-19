@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [You can check the solution code here](https://github.com/KatiaGhezali/QR-code-component)
-- [You can see it live here](https://your-live-site-url.com)
+- [You can see it live here](https://vercel.com/katia-ghezalis-projects/qr-code-component/EsRvL7eASqe3SQmLaHQPV2tNLD6p)
 
 ## My process
 
